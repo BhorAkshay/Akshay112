@@ -1,0 +1,15 @@
+PROBLEM DEFINITION
+ 
+
+1-The problem statement states to build an e-commerce application for an   multinational company named FABRIKAM
+2-The company's requirement is to build and deploy information management   solutions on web.
+3-The company also wants to host an website so that their customers can   view the products that company sells and allow the customers to shop   online for the products that are available on the company's website.
+4-The company also wants to  build and host an intranet service where the
+  employees can get an access to their feedback management system and   leave management system.
+5-The company has subscription of Amazon Webservices cloud platfrom where   they can use this aws platform as IAAS.
+6-The company has 24 offices all over the world.  
+
+
+
+FUNCTIONAL REQUIREMENT
+
